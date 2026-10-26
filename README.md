@@ -1,7 +1,10 @@
-﻿# Hi there, I'm Khalilulla Khan 👋
+﻿<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full-Stack+Developer;Flutter+%26+Python+Enthusiast;Always+Learning&center=true&width=500&height=50&color=36BCF7&vCenter=true&size=24">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=khalilulla2005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-### 🚀 Aspiring Full-Stack Developer | Flutter & Python Enthusiast
-
+### 🚀 About Me
 I'm a passionate fresher developer focused on building practical projects and learning in public. I love turning ideas into code and documenting my journey.
 
 - 🔭 I’m currently working on the **[Travel Guide & Map App](https://github.com/khalilulla2005/Travel-Guide-Map-App)**
@@ -9,7 +12,6 @@ I'm a passionate fresher developer focused on building practical projects and le
 - 👯 I’m looking to collaborate on **Open Source / Beginner-Friendly Projects**
 - 💬 Ask me about **Flutter, Dart, Python, or Git**
 - 📫 How to reach me: **khalil474267@gmail.com** | **+91 7286037849**
-- ⚡ Fun fact: I enjoy building apps that solve real-world travel problems.
 
 ---
 
@@ -28,26 +30,22 @@ I'm a passionate fresher developer focused on building practical projects and le
 
 ---
 
-## 📌 Featured Projects
-
-Here are a few projects I'm proud of:
-
-- **[Travel Guide & Map App](https://github.com/khalilulla2005/Travel-Guide-Map-App)** - A cross-platform mobile app built with Flutter & Dart for destination discovery, navigation, and trip planning.
-- **[Travel Guide](https://github.com/khalilulla2005/travel-guide)** - A companion Dart-based project for travel assistance.
-- **[Student Details](https://github.com/khalilulla2005/StudentDetails)** - An HTML-based project for managing student information.
-- **[GenAI Task Series](https://github.com/khalilulla2005?tab=repositories)** - A collection of Python projects exploring Generative AI concepts.
-
----
-
 ## 📊 GitHub Stats
 
-![Khalilulla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalilulla2005&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilulla2005&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khalilulla2005&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilulla2005&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalilulla-khan-a79b16343)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalil474267@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91%207286037849-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917286037849)
+<div align="center">
+  <a href="https://www.linkedin.com/in/khalilulla-khan-a79b16343">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:khalil474267@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
